@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Luftsoft Task</string>
+
+    <!--MainActivity start-->
+    <string name="main_toolbar_title">Task Executer App</string>
+    <!--MainActivity end-->
+</resources>
